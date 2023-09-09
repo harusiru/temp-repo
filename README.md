@@ -1,1 +1,1 @@
-# The repository license created for practice is the MIT license
+# This repository created for practice, and the license is a MIT license
